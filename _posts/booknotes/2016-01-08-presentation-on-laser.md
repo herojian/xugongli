@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第一次开讲座
-category: project
+category: booknotes
 description: 在“科学现身说”中担任最后一场的主讲人。
 ---
 

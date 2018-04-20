@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何做好一锅传家卤
-category: dump
+category: life
 description: 自己和家人的经验之谈。
 ---
 初次准备

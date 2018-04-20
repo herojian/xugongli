@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 砖工笔记
-category: dump
+category: life
 description: 在今天的工作中我学到了什么。
 ---
 * 工作后的总结反思非常重要，无论多累多忙都一定要完成；
