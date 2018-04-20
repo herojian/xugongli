@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content blog">
+<div class="index-content life">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>技术</span></a></li>
