@@ -2,18 +2,18 @@
 layout: home
 ---
 
-<div class="index-content life">
+<div class="index-content tech">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>技术</span></a></li>
-            <li class="on"  style="text-align:center"><a href="/life"><span>素年锦时</span></a></li>
+            <li class="on"><a href="/tech"><span>技术</span></a></li>
+            <li style="text-align:center"><a href="/life"><span>素年锦时</span></a></li>
             <li style="text-align:right"><a href="/booknotes"><span>读书笔记</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.life %}
+        {% for post in site.categories.tech %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>

@@ -83,7 +83,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-.blog .aside{
+.tech .aside{
     background-image:url(../images//litte_prince.jpg);
 }
 .life .aside{
@@ -166,7 +166,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .cate-bar { width:85%; }
     .index-content .artical-cate { margin-top:50px; }
 
-    .blog .aside,
+    .tech .aside,
     .booknotes .aside,
     .life .aside {display:none;background-image:none;}
 }

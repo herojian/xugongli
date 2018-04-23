@@ -1,5 +1,5 @@
 #一说明
-clone from [BeiYuu.com](http://beiyuu.com), [http://mukosame.github.io]
+clone from  [http://mukosame.github.io]
 博客预览： https://xugongli.github.io
 
 <<<<<<< HEAD
