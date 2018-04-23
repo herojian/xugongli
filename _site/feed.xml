@@ -8,112 +8,21 @@
 		
 			
 			<item>
-				<title></title>
-				
-					<description></description>
-				
-				<pubDate>Mon, 23 Apr 2018 18:51:51 +0800</pubDate>
-				<link>http://localhost:4000/2018-04-23-my_first_blog_of_life</link>
-				<guid isPermaLink="true">http://localhost:4000/2018-04-23-my_first_blog_of_life</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>在新年的第一天</title>
-				
-					<description>&lt;p&gt;比较大的收获是有了和自己相处的时间，初步发现了自己是个懒惰和有惯性的人。也慢慢清楚了自己性格中别扭的部分和来源，并试着慢慢梳理开，尽量直率地处世。虽然，发现自己并没有预想的那么聪明（实际上还很呆），每每想起来还是蛮伤感的。&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 08 Feb 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/review-of-2015</link>
-				<guid isPermaLink="true">http://localhost:4000/review-of-2015</guid>
-			</item>
-			
-		
-			
-			<item>
 				<title>生活与梦想</title>
 				
-					<description>&lt;p&gt;#测试&lt;/p&gt;
+					<description>&lt;p&gt;这两天使用gihub pages + jekyll 搭建了一个博客，这个过程还是多学到了一些关于使用github pages和jekyll的知识。
+将博客分了三类：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;技术(用于记录和分享技术方面的学习心得)&lt;/li&gt;
+  &lt;li&gt;素年锦时 (用于记录生活中比较有意义的点点滴滴)&lt;/li&gt;
+  &lt;li&gt;读书笔记 (用于平时的读书笔记)&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
 				
-				<pubDate>Mon, 08 Feb 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/my_first_blog</link>
-				<guid isPermaLink="true">http://localhost:4000/my_first_blog</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>在新年的第一天</title>
-				
-					<description>&lt;p&gt;比较大的收获是有了和自己相处的时间，初步发现了自己是个懒惰和有惯性的人。也慢慢清楚了自己性格中别扭的部分和来源，并试着慢慢梳理开，尽量直率地处世。虽然，发现自己并没有预想的那么聪明（实际上还很呆），每每想起来还是蛮伤感的。&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 08 Feb 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/review-of-2015</link>
-				<guid isPermaLink="true">http://localhost:4000/review-of-2015</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>生活与梦想</title>
-				
-					<description>&lt;p&gt;#测试&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 08 Feb 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/my_first_blog</link>
-				<guid isPermaLink="true">http://localhost:4000/my_first_blog</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>“中国传统色”应用使用帮助</title>
-				
-					<description>&lt;h2 id=&quot;这是个什么应用&quot;&gt;这是个什么应用？&lt;/h2&gt;
-&lt;p&gt;“中国传统色”是一个色谱/色卡应用。&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 26 Jan 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/chinese-color-how-to-use</link>
-				<guid isPermaLink="true">http://localhost:4000/chinese-color-how-to-use</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>如何准备一场科普讲座？</title>
-				
-					<description>&lt;p&gt;本周刚刚在小学做了一场90分钟的讲座，趁热回答一下这个问题。&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sat, 09 Jan 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/how-to-prepare-a-popsci-ppt</link>
-				<guid isPermaLink="true">http://localhost:4000/how-to-prepare-a-popsci-ppt</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>第一次开讲座</title>
-				
-					<description>&lt;p&gt;6号的时候去了高新区实验中学附属小学，做了一场90分钟的报告。好激动。&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 08 Jan 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/presentation-on-laser</link>
-				<guid isPermaLink="true">http://localhost:4000/presentation-on-laser</guid>
+				<pubDate>Mon, 23 Apr 2018 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/my_first_blog-of-life</link>
+				<guid isPermaLink="true">http://localhost:4000/my_first_blog-of-life</guid>
 			</item>
 			
 		

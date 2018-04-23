@@ -84,13 +84,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .tech .aside{
-    background-image:url(../images//litte_prince.jpg);
+    background-image:url(../images//tech1.gif);
 }
 .life .aside{
-    background-image:url(../images//life.jpg);
+    background-image:url(../images//girl.gif);
 }
 .booknotes .aside{
-    background-image:url('../images//book.jpeg')
+    background-image:url('../images//play.gif')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
