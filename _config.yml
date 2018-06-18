@@ -6,9 +6,9 @@ highlighter: 'rouge'
 #paginate: 8
 permalink: /:title
 
-name: “夜雨微寒”
-title: 夜雨微寒的博客
+name: “西卡西卡”
+title: 西卡西卡的博客
 description: 要有最朴素的生活与最遥远的梦想
 url: http://xugongli.github.io
 feed: /atom.xml
-author_info: <a href="http://xugongli.github.io/">夜雨微寒</a>
+author_info: <a href="http://xugongli.github.io/">西卡西卡</a>

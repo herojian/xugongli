@@ -6,7 +6,7 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/tech"><span>技术</span></a></li>
-            <li style="text-align:center"><a href="/life"><span>素年锦时</span></a></li>
+            <li style="text-align:center"><a href="/life"><span>心途</span></a></li>
             <li style="text-align:right"><a href="/booknotes"><span>读书笔记</span></a></li>
         </ul>
 
