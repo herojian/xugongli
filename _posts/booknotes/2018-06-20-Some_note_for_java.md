@@ -14,7 +14,7 @@ description: Java 学习笔记
 ### 关于流
 流就是怼到文件、内存中数组、网络上的管道。
 节点流流直接怼上去的管道，处理流是怼上去后在经过一层包装的流。
-字节流一次性读取或输出1个字节，如FileInputStream和FileOutputStream；字符流是一次性读取一个字符，（>Java中使用Unicode编码，一个字符即2个字节）。
+字节流一次性读取或输出1个字节，如FileInputStream和FileOutputStream；字符流是一次性读取一个字符。<br> > Java中使用Unicode编码，一个字符即2个字节
 
 ### 其他
 equals()比较的是对象的内容，也就是JVM堆内存中的内容，==比较的是地址，也就是栈内存中的内容。
